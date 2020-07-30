@@ -1,0 +1,8 @@
+venv/
+.idea/
+*.iml
+requirements.txt.py
+database.cnf
+__pycache__/
+logs/
+celerybeat*
